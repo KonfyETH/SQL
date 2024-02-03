@@ -13,7 +13,7 @@
 
 ### Проекты:
 
-#project_python()
+#sql_metrics()
 
 **Данные:**
 
